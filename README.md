@@ -1,5 +1,5 @@
 # 项目简介
-和飞信助手，协议逆向，短信群发
+逆向和飞信协议，实现了发送消息/图片/群聊，利用移动接口发送短信等。
 
 # 功能演示
 ![image](https://github.com/hcaihao/FetionHelper/blob/main/Demo.gif)
