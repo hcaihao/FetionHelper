@@ -6,4 +6,4 @@
 技术交流6850825@qq.com。
 
 # 功能演示
-![image](https://github.com/hcaihao/FetionHelper/blob/main/Demo.gif)
+![image](https://user-images.githubusercontent.com/3926845/145750138-4a0fb153-6bd8-45b7-b18e-033b4e028301.gif)
